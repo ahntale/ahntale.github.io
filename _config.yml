@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "AHNTALE"
-  avatar           : "https://github.com/ahntale/ahntale.github.io/blob/master/_images/profile_image.png"
+  avatar           : "_images/profile_image.png"
   bio              : "재미와 의미를 담은 영화같은 게임을 만듭니다."
   location         : "South Korea"
   email            : "devcreco@korea.ac.kr"
