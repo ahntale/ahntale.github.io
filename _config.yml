@@ -29,7 +29,7 @@ teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/AHNTALESTUDIOLOGOver2.png"
 # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs: true # true, false (default)
+breadcrumbs: # true, false (default)
 words_per_minute: 200
 enable_copy_code_button: # true, false (default)
 copyright: # "copyright" name, defaults to site.title
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name: "AHNTALE"
-  avatar: "_images/profile_image.png"
+  avatar: "/assets/images/profile_image.png"
   bio: "재미와 의미를 담은 영화같은 게임을 만듭니다."
   location: "South Korea"
   email: "devcreco@korea.ac.kr"
