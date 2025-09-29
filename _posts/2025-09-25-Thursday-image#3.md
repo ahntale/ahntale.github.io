@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "2025-09-25-Thursday 이미지추가#3 ~"
+title: "2025-09-25-Thursday image#3 ~"
 author_profile: true
 typora-root-url: ../
 ---
+
+typora-root-url: ../
 
 
 
@@ -24,9 +26,7 @@ typora-root-url: ../
 
 *test삼아 내 첫기타 성음크래프터 기타사진을 올린다.*
 
-![2021-12-26 16.12.46](images/2025-09-25-Thursday-이미지추가#3/2021-12-26 16.12.46-1758784637747-2.jpg)
-
-
+*![2021-12-26 16.12.46](/images/2025-09-25-Thursday-image#3/2021-12-26-guitar.jpg)*
 
 이미지를 추가한 후 경로 앞의 .. 을 제거한다. 제거하면 서버에는 제대로 반영이 되지만 typora에서는 깨져서 보이는 문제가 있다. 이를 보완하기 위해 >> YAML 말머리에 `typora-root-url: ../`을 추가한다.
 
