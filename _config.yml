@@ -18,9 +18,9 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 locale: "ko-KR"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
 title: "AHNTALE STUDIO"
-title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
-name: "ahntale"
+title_separator: "|"
+subtitle: 만들 가치가 있는 것을 잘 팔리게, 그리고 재미있게 # site tagline that appears below site title in masthead
+name: "AHNTALE"
 description: "재미와 의미를 담은 영화같은 게임을 만듭니다."
 url: "https://ahntale.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -29,9 +29,9 @@ teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/AHNTALESTUDIOLOGOver2.png"
 # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs: false # true, false (default)
+breadcrumbs: true # true, false (default)
 words_per_minute: 200
-enable_copy_code_button: # true, false (default)
+enable_copy_code_button: true # true, false (default)
 copyright: # "copyright" name, defaults to site.title
 copyright_url: # "copyright" URL, defaults to site.url
 comments:
@@ -106,10 +106,10 @@ social:
 
 # Analytics
 analytics:
-  provider: # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id:
-    anonymize_ip: # true, false (default)
+    tracking_id: GTM-TJVBS7WW
+    anonymize_ip: false # true, false (default)
 
 # Site Author
 author:
