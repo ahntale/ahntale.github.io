@@ -4,6 +4,7 @@ title: "2025-09-25-Thursday image#3 ~"
 author_profile: true
 typora-root-url: ../
 categories: jekyll
+tag: jekyll
 ---
 
 - 서울 일정 소화중 짬이나서 서강대 스타벅스에서 강의를 들을 시간이 됐다. (2025-09-25-1:00PM)
