@@ -26,7 +26,7 @@ tag: jekyll
 
 _test삼아 내 첫기타 성음크래프터 기타사진을 올린다._
 
-_![2021-12-26 16.12.46](/images/2025-09-25-Thursday-image-3/2021-12-26-guitar.jpg)_
+\_![2021-12-26 16.12.46](/images/2025-09-25-Thursday-image-3/2021-12-26-guitar.jpg){: .img-width-half .align-center}
 
 이미지를 추가한 후 경로 앞의 .. 을 제거한다. 제거하면 서버에는 제대로 반영이 되지만 typora에서는 깨져서 보이는 문제가 있다. 이를 보완하기 위해 >> YAML 말머리에 `typora-root-url: ../`을 추가한다.
 

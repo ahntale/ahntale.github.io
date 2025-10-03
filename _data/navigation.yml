@@ -18,6 +18,12 @@ main:
     url: /tags/
   - title: "Search"
     url: /search/ # add search page link , if  dont want to see this page, 'search: false'
+  - title: "Year Archive"
+    url: /year-archive/
+
+  # if you want to use grid view for year-archive page, uncomment below
+  # - title: "Year Archive(grid view)"
+  #   url: /year-archive-grid/
 
 docs:
   - title: "MENU"
