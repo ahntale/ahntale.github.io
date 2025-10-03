@@ -16,3 +16,123 @@ main:
     url: /categories/
   - title: "Tag"
     url: /tags/
+  - title: "Search"
+    url: /search/ # add search page link , if  dont want to see this page, 'search: false'
+
+docs:
+  - title: "MENU"
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "Tag"
+        url: /tags/
+
+  - title: "COMPUTER SCIENCE"
+    children:
+      - title: "algorithm"
+        url: /categories/#algorithm
+      - title: "data_structure"
+        url: /categories/#data_structure
+      - title: "network"
+        url: /categories/#network
+      - title: "operating_system"
+        url: /categories/#operating_system
+      - title: "database"
+        url: /categories/#database
+      - title: "programming_language"
+        url: /categories/#programming_language
+
+  - title: "GAME DEVELOPMENT"
+    children:
+      - title: "game_design"
+        url: /categories/#game_design
+      - title: "scenario"
+        url: /categories/#scenario
+      - title: "unity_engine"
+        url: /categories/#unity_engine
+      - title: "unreal_engine"
+        url: /categories/#unreal_engine
+      - title: "game_server"
+        url: /categories/#game_server
+      - title: "game_ai"
+        url: /categories/#game_ai
+
+  - title: "ARTIFICIAL INTELLIGENCE"
+    children:
+      - title: "machine_learning"
+        url: /categories/#machine_learning
+      - title: "deep_learning"
+        url: /categories/#deep_learning
+      - title: "nlp"
+        url: /categories/#nlp
+      - title: "cv"
+        url: /categories/#cv
+      - title: "reinforcement_learning"
+        url: /categories/#reinforcement_learning
+      - title: "ai_application"
+        url: /categories/#ai_application
+
+  - title: "PROJECT"
+    children:
+      - title: "ing"
+        url: /categories/#ing
+      - title: "done"
+        url: /categories/#done
+
+    # - title: "CS"
+    #   children:
+    # #     # - title: "Category"
+    # #     #   url: /categories/
+    # #     # - title: "Tag"
+    # #     #   url: /tags/
+    #     - title: "algorithm"
+    #       # url: /tags/algorithm/
+    #     - title: "data-structure"
+    #       # url: /tags/data-structure/
+    #     - title: "network"
+    #       # url: /tags/network/
+    #     - title: "operating-system"
+    #       # url: /tags/operating-system/
+    #     - title: "database"
+    #       # url: /tags/database/
+    #     - title: "programming-language"
+    #       # url: /tags/programming-language/
+
+    # - title: "GAME Development"
+    #   children:
+    #     - title: "game-design"
+    #         # url: /tags/game-design/
+    #     - title: "scenario"
+    #         # url: /tags/scenario/
+    #     - title: "unity-engine"
+    #         # url: /tags/unity-engine/
+    #     - title: "unreal-engine"
+    #         # url: /tags/unreal-engine/
+    #     - title: "game-server"
+    #         # url: /tags/game-server/
+    #     - title: "game-ai"
+    #         # url: /tags/game-ai/
+
+    # - title: "AI"
+    #   # children:
+    #   #   - title: "machine-learning"
+    #   #       # url: /tags/machine-learning/
+    #   #   - title: "deep-learning"
+    #   #       # url: /tags/deep-learning/
+    #   #   - title: "nlp"
+    #   #       # url: /tags/nlp/
+    #   #   - title: "cv"
+    #   #       # url: /tags/cv/
+    #   #   - title: "reinforcement-learning"
+    #   #       # url: /tags/reinforcement-learning/
+    #   #   - title: "ai-application"
+    #   #       # url: /tags/ai-application/
+
+    # - title: "PROJECT"
+    #   # children:
+
+    #   # children:
+    #   #   - title: "Category"
+    #   #     url: /categories/
+    #   #   - title: "Tag"
+    #   #     url: /tags/
