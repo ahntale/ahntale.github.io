@@ -1,12 +1,12 @@
 ---
 typora-root-url: ../
-categories: notice
+categories: jekyll
 title: 2025-10-03 notice, redirect, image half, LaTex 문법
 author_profile: false
 sidebar:
   nav: "docs"
 layout: single
-tag: notice
+tag: jekyll
 toc: true
 ---
 
@@ -130,4 +130,4 @@ toc: true
 
 - [ ] github page enforce https check 불가 (클라우드플레어 custom domain)
 - [ ] categories counting post 구현할 것.
-- [ ] 
+- [ ] 프로젝트학기 학습 진도에 집중할 것.
